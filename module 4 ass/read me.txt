@@ -1,0 +1,6 @@
+user1 : sahu@gmail.com
+password: Sahu@123
+user2 : sahujeetendra@gmail.com
+password: Sahu@123
+user3 : jeetendra@gmail.com
+password : Sahu@123
